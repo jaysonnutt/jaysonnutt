@@ -1,15 +1,15 @@
 {
   "basics": {
-    "name": "Molly Maluhia",
+    "name": "Jayson Nutt",
     "label": "Student",
     "picture": "https://techfolios.github.io/template/images/molly.png",
-    "email": "molly@hawaii.edu",
-    "phone": "808-333-4444",
-    "website": "https://mmaluhia.github.io",
-    "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2020.",
+    "email": "jnutt4@hawaii.edu",
+    "phone": "",
+    "website": "https://jaysonnutt.github.io",
+    "summary": "I am a student in the Intormation and Computer Science program at the University of Hawaii at Manoa",
     "location": {
       "address": "",
-      "postalCode": "96822",
+      "postalCode": "96821",
       "city": "Honolulu",
       "countryCode": "USA",
       "region": "Hawaii"
@@ -17,41 +17,29 @@
     "profiles": [
       {
         "network": "github",
-        "username": "mmaluhia",
-        "url": "http://github.com/changeme"
+        "username": "jaysonnutt",
+        "url": "http://github.com/jaysonnutt"
       },
       {
         "network": "linkedin",
-        "username": "mollymaluhia",
-        "url": "http://linkedin.com/in/changeme"
-      },
-      {
-        "network": "twitter",
-        "username": "mollymal",
-        "url": "http://twitter.com/changeme"
-      },
-      {
-        "network": "instagram",
-        "username": "molly",
-        "url": "http://instagram.com/changeme"
+        "username": "jaysonnutt",
+        "url": "http://linkedin.com/in/jaysonnutt"
       }
     ]
   },
   "interests": [
     {
-      "name": "internet of things",
-      "keywords": [
-        "Arduino",
-        "TI MSP430"
-      ]
-    },
-    {
-      "name": "data mining",
+      "name": "Information Security",
       "keywords": [
       ]
     },
     {
-      "name": "artificial intelligence",
+      "name": "Cryptography",
+      "keywords": [
+      ]
+    },
+    {
+      "name": "Data Visualization",
       "keywords": [
       ]
     }
