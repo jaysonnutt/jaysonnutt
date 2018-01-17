@@ -14,7 +14,7 @@ labels:
 summary: An interactive list used by political candidates when campaigning door to door.
 ---
 
-<div class="ui small rounded images">
+<div>
   <img class="ui image" src="../images/walking-list.png">
 </div>
 
