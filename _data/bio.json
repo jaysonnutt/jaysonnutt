@@ -76,91 +76,76 @@
       "endDate": "Present",
       "gpa": "3.8",
       "courses": [
-        "Algorithms",
-        "Basic Concepts of Computation",
-        "Computer Security and Ethics",
-        "Data Networks",
-        "Data Security & Cryptography I",
-        "Data Storage & Retrieval",
-        "Discrete Mathematics I",
-        "Discrete Mathematics II",
-        "Introduction to Computer Science I",
-        "Introduction to Computer Science II",
-        "Introduction to Programming for the Web",
-        "Operating Systems",
-        "Program Structure",
-        "Security and Trust I",
-        "Security and Trust II",
-        "Software Engineering I",
-        "Tools for the Information World"
       ]
     }
   ],
   "work": [
     {
-      "company": "UH Manoa Board of Publications",
-      "position": "Web Developer",
-      "website": "",
-      "startDate": "2015-08-01",
+      "company": "Hawaiian Dredging Construction Company",
+      "position": "IT Intern",
+      "website": "http://www.hdcc.com/",
+      "startDate": "2018-01-08",
       "endDate": "Present",
-      "summary": "Head of online presence for Ka Leo",
+      "summary": "",
       "highlights": [
-        "Maintain, update, and oversee official college newspaper website",
-        "Drive, design and build student-community projects for UH Manoa"
+        
       ]
     },
     {
-      "company": "UH Information Technology Services",
-      "position": "Help Desk Consultant",
-      "website": "http://www.hawaii.edu/its/",
-      "startDate": "2015-01-01",
-      "endDate": "2016-03-15",
+      "company": "Consolidated Theaters",
+      "position": "Supervisor/Projectionist",
+      "website": "https://www.consolidatedtheatres.com/",
+      "startDate": "2011-04-01",
+      "endDate": "Present",
       "summary": "",
       "highlights": [
-        "Troubleshoot software, hardware and networking issues over the phone",
-        "Answer phone and email responses to the ITS Help Desk"
+        "Lead a team of up to 10 people at a time",
+        "Trained Supervisors and Service Associates",
+        "Resolved customer service and service associate conflicts",
+        "Ensured smooth operations and team cohesiveness"
+      ]
+    },
+    {
+      "company": "Consolidated Theaters",
+      "position": "Service Associate",
+      "website": "https://www.consolidatedtheatres.com/",
+      "startDate": "2009-07-01",
+      "endDate": "2011-04-01",
+      "summary": "",
+      "highlights": [
+        "Trained Service Associates",
+        "Cashier for concession and box office",
+        "Provided manager with up-to-date inventory reports",
+        "Provided customer service and cleaned auditoriums, lobbies, and restrooms"
       ]
     }
   ],
   "volunteer": [
     {
-      "organization": "Center for Renewable Energy and Island Sustainability",
-      "website": "http://manoa.hawaii.edu/reis",
-      "position": "Software Developer",
-      "startDate": "2016-01-01",
-      "endDate": "Present",
-      "summary": "Lead developer for weather sensing project",
-      "highlights": [
-        "Design firmware for distributed weather sensor network",
-        "Maintain custom data collection and storage infrastructure"
-      ]
-    },
-    {
-      "organization": "",
-      "website": "",
-      "position": "Professional organization involvement",
-      "startDate": "",
+      "organization": "GenCyber CampFIRE Cyber Security Challenge",
+      "website": "https://gencyber-hi.org/",
+      "position": "Mentor",
+      "startDate": "2018-01-03",
       "endDate": "",
-      "summary": "",
+      "summary": "Event volunteer mentor",
       "highlights": [
-        "Chair, ACM Manoa, 2016-Present",
-        "Member, IEEE Student Branch, 2014-Present",
-        "Webmaster/IT Officer, IEEE Student Branch, UH Manoa, 2012-2013"
+        "Mentored high school students in a cyber security competition",
+        "Helped students understand and apply cyber security skills such as forensics, incident response, and reverse engineering"
       ]
     }
   ],
   "awards": [
     {
-      "title": "B+ Scholarship",
-      "date": "2013-Present",
-      "awarder": "State of Hawaii",
-      "summary": "Scholarships awarded to incoming freshmen and continuing students who complete a rigorous high school curriculum with a minimum overall GPA of 3.0 at a Hawai'i public school."
+      "title": "First Hawaiian Bank Scholars Award",
+      "date": "2017 and 2015",
+      "awarder": "First Hawaiian Bank",
+      "summary": "Scholarships awarded to college students that achieve academic exellence and embody the principals and values of First Hawaiian Bank."
     },
     {
-      "title": "First place",
-      "date": "2015",
-      "awarder": "University of Hawaii Micromouse Competition",
-      "summary": "My team won first place in 2015.  See my portfolio site for more details."
+      "title": "Dean's List",
+      "date": "2014",
+      "awarder": "University of Hawaii at Manoa",
+      "summary": "The Dean's List distinction is awarded to undergraduate students with a grade point average of 3.5 or higher"
     }
   ],
   "references": [
