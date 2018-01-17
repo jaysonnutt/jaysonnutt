@@ -76,6 +76,23 @@
       "endDate": "Present",
       "gpa": "3.8",
       "courses": [
+        "Algorithms",
+        "Basic Concepts of Computation",
+        "Computer Security and Ethics",
+        "Data Networks",
+        "Data Security & Cryptography I",
+        "Data Storage & Retrieval",
+        "Discrete Mathematics I",
+        "Discrete Mathematics II",
+        "Introduction to Computer Science I",
+        "Introduction to Computer Science II",
+        "Introduction to Programming for the Web",
+        "Operating Systems",
+        "Program Structure",
+        "Security and Trust I",
+        "Security and Trust II",
+        "Software Engineering I",
+        "Tools for the Information World"
       ]
     }
   ],
