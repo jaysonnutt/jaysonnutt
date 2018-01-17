@@ -53,8 +53,7 @@
         "C++",
         "Java",
         "Javascript",
-        "Assembly",
-        "Common Lisp"
+        "PHP"
       ]
     },
     {
@@ -64,19 +63,18 @@
         "MacOS",
         "Ubuntu",
         "Git/GitHub",
-        "g++",
-        "TI LaunchPad"
+        "g++"
       ]
     }
   ],
   "education": [
     {
-      "institution": "University of Hawaii, Honolulu, HI",
-      "area": "Computer Science (expected Spring, 2018)",
-      "studyType": "B.S.",
-      "startDate": "2013-09-01",
+      "institution": "University of Hawaii at Manoa, Honolulu, HI",
+      "area": "Information & Computer Science (expected Fall, 2018)",
+      "studyType": "B.A.",
+      "startDate": "2014-08-01",
       "endDate": "Present",
-      "gpa": "",
+      "gpa": "3.8",
       "courses": [
       ]
     }
