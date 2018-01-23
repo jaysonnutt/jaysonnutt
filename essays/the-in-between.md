@@ -13,7 +13,7 @@ labels:
 
 ## Fundamentals
 
-<img class="ui medium right floated rounded image" src="../images/the-in-between-1.png">Being reintroduced to Javascript this week was an interesting experience. I've fiddled around with Javascript off and on over the past few years, learning it on an as needed basis. This week, I actually started learning the language starting with the basics. Starting from the beginning made me realize that Javascript is, in a sense, a hybrid language. 
+<img class="ui small right floated rounded image" src="../images/the-in-between-1.png">Being reintroduced to Javascript this week was an interesting experience. I've fiddled around with Javascript off and on over the past few years, learning it on an as needed basis. This week, I actually started learning the language starting with the basics. Starting from the beginning made me realize that Javascript is, in a sense, a hybrid language. 
 
 ## Between Languages
 
