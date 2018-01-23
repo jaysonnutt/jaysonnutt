@@ -11,9 +11,11 @@ labels:
   - WOD
 ---
 
-## The In Between
+## Fundamentals
 
 Being reintroduced to Javascript this week was an interesting experience. I've fiddled around with Javascript off and on over the past few years, learning it on an as needed basis. This week, I actually started learning the language starting with the basics. Starting from the beginning made me realize that Javascript is, in a sense, a hybrid language. 
+
+## Between Languages
 
 Javascript's syntax is similar to other languages that I am used to, like Java and C. One thing that makes Javascript different from those languages is that it is a higher level language. Java and C are strongly typed languages, where each variable is constrained to a datatype. This may seem like a small difference to some, but these little differences play a big role when it comes to productivity. On the other hand, I would not consider Javascript to be a high level language either. When I think of high level languages, the first thing that comes to my mind is Python (a language that I've come to love in recent years). Python code is almost indistinguishable from pseudocode. Javascript is more strongly typed than that. I have not encountered a language that I can group with Javascript, it is as if it lives in its own world in between other languages.
 
