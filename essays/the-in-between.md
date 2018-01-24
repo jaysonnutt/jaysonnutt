@@ -4,7 +4,7 @@ published: true
 type: essay
 title: The In Between
 # All dates must be YYYY-MM-DD format!
-date: 2017-01-18
+date: 2018-01-18
 labels:
   - Javascript
   - Athletic Software Engineering
