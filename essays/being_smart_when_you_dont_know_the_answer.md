@@ -16,7 +16,7 @@ Contrary to popular belief, being smart does not mean knowing everything. In fac
 
 While it's true that classifying questions into good and bad is somewhat subjective, there are styles of questions that elicit better answers than others. We, as software engineers, work in an environment that is constantly changing. Asking questions the right way will help us to learn new things more effectively. Asking high quality questions is a skill, one that can be practiced and honed over time. As with any other skill, there are fundamentals to asking questions. Eric Steven Raymond enumerates some of these fundamentals in his article titled *How To Ask Questions The Smart Way*. Let's look at a few example questions and analyze them to determine whether they are "good" questions or "bad" questions according to Raymond's article.
 
-## Not-so-smart Example
+## Not-so-smart
 
 <img class="ui fluid centered rounded image" src="/images/not-so-smart_question.png" alt="An example of a question that could use some work">
 
@@ -34,7 +34,18 @@ While it's true that classifying questions into good and bad is somewhat subject
 
 Looking at the response that the question received, we can see that asking questions like this does not get you useful answers. Readers down-voted this question such that its overall rating is actually negative (-2). Reading through the responses, which I've omitted for the sake of brevity, the question was never ultimately answered. The question was asked five years ago, surely the user's homework assignment was due in that time and she/he received no help from their question. Now that you've survived that, let's look at another example.
 
-## Smart Example
+## Smart
 
 <img class="ui centered rounded image" src="/images/smart_question.png" alt="An example of a good question">
 
+* Starting from the top, the title of this question is short and to the point. The issue that the user is having is very clear and follows Raymond's advice of having a *"meaningful, specific subject header.*
+
+* In the first sentence, the question complies with Raymond's principle of describing *"the goal, not the step."* The user states that his goal is to *"delete the branch both locally and on my remote project fork on GitHub."*
+
+* In his section titled *Before You Ask*, Raymond suggests making it clear that you are willing to put in work to help find the answer. This principle is evident in the user's post when they ask *"What do I need to do differently to successfully delete the remotes/origin/bugfix branch both locally and on GitHub?"*
+
+* The user provides some output of the issue he is having and the corresponding error messages. This shows that the user put in the time and effort to try to solve the problem on their own and, as Raymond points out, tells potential readers what did not work so that they won't spend time trying those methods.
+
+* The question itself is short and to the point. There is nothing in the question that is superfluous.
+
+This question was well received by the StackOverflow community. It received 12,443 upvotes and 4,077 stars. According to the moderator of the forum, the question received 24 answers. Looking at the answer I provided in the screenshot, we see that the quality of the answer is great. It is succinct, clearly organized, complete, formatted, and even has references! Looking at the top answer more carefully now, I notice that the person who asked the question and the person who provided the top answer are one in the same and the answer was posted one minute after the question. This leads me to believe that the user was posting for the sole purpose of gaining reputation in the community. Looking at the other answers, they are of the same quality and some even have diagrams.
