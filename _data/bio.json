@@ -4,11 +4,9 @@
     "label": "Student",
     "picture": "https://jaysonnutt.github.io/images/jaysonnutt.jpg",
     "email": "jnutt4@hawaii.edu",
-    "phone": "",
     "website": "https://jaysonnutt.github.io",
     "summary": "I am a student in the Intormation and Computer Science program at the University of Hawaii at Manoa",
     "location": {
-      "address": "",
       "postalCode": "96821",
       "city": "Honolulu",
       "countryCode": "USA",
@@ -29,25 +27,18 @@
   },
   "interests": [
     {
-      "name": "Information Security",
-      "keywords": [
-      ]
+      "name": "Information Security"
     },
     {
-      "name": "Cryptography",
-      "keywords": [
-      ]
+      "name": "Cryptography"
     },
     {
-      "name": "Data Visualization",
-      "keywords": [
-      ]
+      "name": "Data Visualization"
     }
   ],
   "skills": [
     {
       "name": "Languages and Frameworks",
-      "level": "",
       "keywords": [
         "C",
         "C++",
@@ -59,7 +50,6 @@
     },
     {
       "name": "Toolsets/OS",
-      "level": "",
       "keywords": [
         "MacOS",
         "Ubuntu",
@@ -87,10 +77,7 @@
       "website": "http://www.hdcc.com/",
       "startDate": "2018-01-08",
       "endDate": "Present",
-      "summary": "",
-      "highlights": [
-        
-      ]
+      "summary": ""
     },
     {
       "company": "Consolidated Theaters",
@@ -98,7 +85,6 @@
       "website": "https://www.consolidatedtheatres.com/",
       "startDate": "2011-04-01",
       "endDate": "Present",
-      "summary": "",
       "highlights": [
         "Lead a team of up to 10 people at a time",
         "Trained Supervisors and Service Associates",
@@ -112,7 +98,6 @@
       "website": "https://www.consolidatedtheatres.com/",
       "startDate": "2009-07-01",
       "endDate": "2011-04-01",
-      "summary": "",
       "highlights": [
         "Trained Service Associates",
         "Cashier for concession and box office",
