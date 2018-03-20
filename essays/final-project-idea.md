@@ -1,6 +1,6 @@
-
 ---
 layout: essay
+published: true
 type: essay
 title: "Final Project Idea"
 date: 2018-3-20
@@ -10,7 +10,6 @@ labels:
 ---
 
 This idea was created by Karissa Hyunh & Jayson Nutt
-
 
 # Project Name
 RateMyClass
