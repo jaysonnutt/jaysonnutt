@@ -42,6 +42,11 @@
       "keywords": [
         "C",
         "C++",
+	"C#",
+	"HTML",
+	"Angular",
+	"Ionic",
+	".NET",
         "Java",
         "Javascript",
         "PHP",
@@ -52,9 +57,14 @@
       "name": "Toolsets/OS",
       "keywords": [
         "MacOS",
-        "Ubuntu",
+        "Linux/Unix",
+	"Windows XP/Vista/7/8.1/10",
         "Git/GitHub",
-        "g++"
+        "Eclipse",
+	"IntelliJ",
+	"NetBeans",
+	"Visual Studio",
+	"xCode"
       ]
     }
   ],
