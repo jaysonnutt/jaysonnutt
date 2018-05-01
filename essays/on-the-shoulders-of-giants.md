@@ -8,7 +8,7 @@ labels:
   - Design Patterns
 ---
 
-## On the Shoulders of Giants
+## Learn From Past Mistakes
 
 One of the challenges we often face as software engineers when we first set out to do a project is figuring out how we want our project to be designed. One of the things you learn quickly when learning to code is that there is more than one way to do any given thing. As you progress in your project you are faced with many decisions that you need to make. If there is no structure in your code to help guide you towards the right decision, it is easy to make a wrong decision and have it come back to bite you later on in the project. One of the things that seperates a well seasoned software engineer from a new software engineer is a well seasoned softare engineer will start to think about some of these decisions before writing a single line of code whereas a new softare engineer will simply jump straight into writing code and make decisions as they arise. The more projects that you do the more you see that often you encounter the same decisions every time. Design patterns are built around these decisions. If you follow a well structured design pattern from the start, many of these decisions that you face will already be decided for you and you can be sure that they are the right decisions.
 
