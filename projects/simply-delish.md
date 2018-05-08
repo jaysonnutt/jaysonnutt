@@ -14,7 +14,7 @@ labels:
 summary: A web application that connects students to food.
 ---
 
-<img class="ui fluid image" src"../images/landing.gif">
+<img class="ui fluid image" src"../images/landing.png">
 
 There are more than a dozen restaurants at the University of Hawaii at Manoa and many more on the outskirts of campus. With so many restaurant choices and changing menus, it is a challenge to find good food that you know you will enjoy. With the prevalence of dietary restrictions these days, it just compounds the issue. Now not only do you need to find good tasting food, but that food must also meet your dietary restriction needs.
 
