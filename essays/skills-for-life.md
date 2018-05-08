@@ -1,5 +1,6 @@
 ---
 layout: essay
+published: false
 type: essay
 title: Life Skills
 date: 2018-01-17

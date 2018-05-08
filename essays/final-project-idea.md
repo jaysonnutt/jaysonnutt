@@ -1,6 +1,6 @@
 ---
 layout: essay
-published: true
+published: false
 type: essay
 title: "Final Project Idea"
 date: 2018-03-20
