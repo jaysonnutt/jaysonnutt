@@ -115,6 +115,19 @@
   ],
   "volunteer": [
     {
+      "organization": "Mentor, GenCyber Summer Camp",
+      "website": "https://gencyber-hi.org/",
+      "position": "Mentor Team Leader",
+      "startDate": "2018-06-04",
+      "endDate": "2018-06-08",
+      "summary": "Volunteer Classroom Assistant/Mentor (Team Leader)",
+      "highlights": [
+        "Explained cyber security concepts to students with no prior security experience",
+        "Managed a team of six volunteer mentors and acted as the intermediary between the mentors and the event leaders",
+        "Proctored a Capture-the-Flag competition for the students"
+      ]
+    },
+    {
       "organization": "GenCyber CampFIRE Cyber Security Challenge",
       "website": "https://gencyber-hi.org/",
       "position": "Mentor",
